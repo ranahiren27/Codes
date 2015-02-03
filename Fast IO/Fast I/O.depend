@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1404027835 source:f:\acads\codes\code chef\o\fast i\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1404027835 source:f:\acads\codes\algorithms\fast io\fast i\main.c
+	<stdio.h>
+	<stdlib.h>
+

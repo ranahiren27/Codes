@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1400760678 source:/home/roshan/Documents/Acads/Codes/Algorithms/Segment Trees/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1414495388 source:f:\acads\codes\algorithms\fenwick tree (binary index tree)\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<map>
+

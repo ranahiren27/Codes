@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1401354663 source:d:\codes\binary search algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1403263977 source:f:\acads\codes\algorithms\binary search algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+

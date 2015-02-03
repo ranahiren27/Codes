@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1402314064 source:f:\acads\codes\nth root of a number algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1413962325 source:f:\acads\codes\articulation points and bridges\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<list>
+	<map>
+

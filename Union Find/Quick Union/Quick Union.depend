@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1406736292 source:f:\acads\codes\algorithms\union find\quick union\main.c
+	<stdio.h>
+	<stdlib.h>
+

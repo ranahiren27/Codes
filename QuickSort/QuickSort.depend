@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1421039835 source:/home/roshan/Documents/Acads/Codes/Algorithms/QuickSort/main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<cmath>
+	<list>
+	<algorithm>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	<limits.h>
+	<climits>
+

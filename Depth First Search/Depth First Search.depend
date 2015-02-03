@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1404558601 source:f:\acads\codes\algorithms\depth first search\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+

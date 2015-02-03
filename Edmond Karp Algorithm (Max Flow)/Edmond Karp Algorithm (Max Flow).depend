@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1412420977 source:f:\acads\codes\algorithms\edmond karp algorithm (max flow)\main.cpp
+	<iostream>
+	<stdio.h>
+	<map>
+	<vector>
+	<string.h>
+	<list>
+	<stdlib.h>
+	<ctime>
+	<set>
+	<map>
+	<utility>
+	<algorithm>
+	<stack>
+	<queue>
+	<limits.h>
+
